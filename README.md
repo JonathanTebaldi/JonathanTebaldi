@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Jonathan Tebaldi 👋
 
-Cursando 3º Ano Ensino Superior Análise e desenvolvimento de Sistemas - (FEMA)
+- Cursando 3º Ano Ensino Superior Análise e desenvolvimento de Sistemas - (FEMA)
+- Estagiário de Hardware, Manutenção de Computadores (FEMA)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan_tebaldi?igsh=Z2JwOGFvZ2cwODV1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-tebaldi-1b0a03245/)
